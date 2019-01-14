@@ -4,4 +4,5 @@ META-INF
 system.simg
 ota-signed-*
 recovery*
+.DS_Store
 
